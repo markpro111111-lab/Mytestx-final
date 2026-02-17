@@ -1,0 +1,8 @@
+flask
+pyTelegramBotAPI
+requests
+keyboard
+pyautogui
+pygetwindow
+pillow
+pytesseract
